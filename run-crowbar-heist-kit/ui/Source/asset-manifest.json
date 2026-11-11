@@ -1,0 +1,389 @@
+{
+  "license": "CC0-1.0",
+  "assets": [
+    {
+      "file": "wanted-meter-bar-frame.png",
+      "bytes": 911,
+      "sha256": "775a2962259134523f90e953603df074720c84ebf344771938a16ecc841ec3b9",
+      "width": 560,
+      "height": 112,
+      "mode": "RGBA"
+    },
+    {
+      "file": "wanted-star-empty.png",
+      "bytes": 866,
+      "sha256": "ab25cbd67f9d68ec139abe4fb42f23d9c022f5bcab0d2c1edec4b98ed25da15b",
+      "width": 96,
+      "height": 96,
+      "mode": "RGBA"
+    },
+    {
+      "file": "wanted-star-filled.png",
+      "bytes": 860,
+      "sha256": "4e63a6a351dc4d68ad835e323f31e63e11ba46bc1553960a5b2eded524f6c396",
+      "width": 96,
+      "height": 96,
+      "mode": "RGBA"
+    },
+    {
+      "file": "wanted-star-flashing_strip8.png",
+      "bytes": 2704,
+      "sha256": "8abb086eafc45bf39450b7d74eb75a9b5fb969d9ac34002aca0da85596765cd8",
+      "width": 768,
+      "height": 96,
+      "mode": "RGBA"
+    },
+    {
+      "file": "heist-timer-frame.png",
+      "bytes": 1007,
+      "sha256": "83957a87f2d85798025a7a3ce15c1be2dd18bfc97b2f8c180e99e8a517c68950",
+      "width": 320,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "heist-timer-digits-stencil.png",
+      "bytes": 6966,
+      "sha256": "eb985b78ba27197a5d62fcd836911462f11addd2da6c1f956beeabbe5343360c",
+      "width": 528,
+      "height": 80,
+      "mode": "RGBA"
+    },
+    {
+      "file": "heist-timer-warning_strip8.png",
+      "bytes": 2926,
+      "sha256": "3861d8d3be69fc3f84ce473a052c6376794cfc6d667a3795250df18f7e49c78c",
+      "width": 2560,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "stealth-eye-hidden.png",
+      "bytes": 775,
+      "sha256": "26f5d309261639278109597d3dc39c63edf8cca36069b05273599413520b7429",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "stealth-eye-suspicious.png",
+      "bytes": 943,
+      "sha256": "768eaa91565269381206ce1bdeead030be7f24c9bf1b96d6a76c4a2df96b1292",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "stealth-eye-spotted.png",
+      "bytes": 1093,
+      "sha256": "8f8d17f045a76301fe292f661a4d6df382dad5653e5dee0d8798615c5cf139db",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "stealth-detection-fill_strip8.png",
+      "bytes": 5489,
+      "sha256": "384f457e4c041428eece1bea707e338b42ed438a197ba3aae0a0b3674c799dbb",
+      "width": 1024,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "loot-counter-panel.png",
+      "bytes": 742,
+      "sha256": "880412c31cc95895ade5ae8a103adfc104021765eccd7503219104ce9317284a",
+      "width": 288,
+      "height": 96,
+      "mode": "RGBA"
+    },
+    {
+      "file": "alarm-triggered-banner.png",
+      "bytes": 3885,
+      "sha256": "f9b578642d65565b2226ef77aa54e715bef0c4f78cd1dd00e8e0ab068dcbdebd",
+      "width": 720,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "alarm-banner-flash_strip8.png",
+      "bytes": 12534,
+      "sha256": "98a465668cbfb204afbbf42e1d4e222077fe8999ebce4103dc4cc4e7d0e2e6d1",
+      "width": 5760,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "objective-checklist-card.png",
+      "bytes": 1686,
+      "sha256": "51d4f409a613e11c6cef885d692b273b405e924f7a72a37253e543cb72cc6036",
+      "width": 400,
+      "height": 320,
+      "mode": "RGBA"
+    },
+    {
+      "file": "objective-checkbox-empty.png",
+      "bytes": 366,
+      "sha256": "122a743fc66b103001aece847c2f1687b994b26c42b388eeb348cd109e1cfcbf",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "objective-checkbox-ticked.png",
+      "bytes": 558,
+      "sha256": "c20a183d5a166a5245a22e4c76fcefad58e6b07dadf8ad3cf9ac26d4284e89d1",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "objective-checkbox-failed.png",
+      "bytes": 571,
+      "sha256": "83664737c2047c59487d199631b00e74ccc710696e4bfd87b871c9f5bc9c6a20",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "safe-crack-dial-face.png",
+      "bytes": 9394,
+      "sha256": "011b26d72b7e6a913a465b8d241b93dadf805d667797492694b9e8e15b8bf2db",
+      "width": 384,
+      "height": 384,
+      "mode": "RGBA"
+    },
+    {
+      "file": "safe-crack-dial-ring.png",
+      "bytes": 4608,
+      "sha256": "ce6649accbdbf9c00c1e51c2ff65e59ce08bb24ec2d20be538786ac84a73c53e",
+      "width": 384,
+      "height": 384,
+      "mode": "RGBA"
+    },
+    {
+      "file": "safe-crack-dial-pointer.png",
+      "bytes": 444,
+      "sha256": "27d8ca886272c5e22957bedc612d9f089703505867bd656ab7fb8615321b45fd",
+      "width": 48,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "lockpick-tumbler-pins.png",
+      "bytes": 1230,
+      "sha256": "72f455eef22a3b79e97c1b7bf6ba2f98dc66711ed6aff2fd309bd3dddbc193c8",
+      "width": 384,
+      "height": 192,
+      "mode": "RGBA"
+    },
+    {
+      "file": "interact-hold-ring_strip8.png",
+      "bytes": 7208,
+      "sha256": "1cdf1f371d111fcec3eb3bd3d5d009426b953dcabb294bb1666253aa0c88d688",
+      "width": 1280,
+      "height": 160,
+      "mode": "RGBA"
+    },
+    {
+      "file": "interact-prompt-bubble.png",
+      "bytes": 675,
+      "sha256": "e76ace5392645acd9e19d62f34a16a46531e1b56ae3870dd3e1f0d62ab7b1388",
+      "width": 192,
+      "height": 96,
+      "mode": "RGBA"
+    },
+    {
+      "file": "payout-screen-panel.png",
+      "bytes": 4278,
+      "sha256": "c5ab5ba6bcd1e0dc4a1eb812252480e1a146478f379f63d31be613c3b9ae82d5",
+      "width": 640,
+      "height": 800,
+      "mode": "RGBA"
+    },
+    {
+      "file": "payout-ribbon-title.png",
+      "bytes": 2984,
+      "sha256": "26bda119362a17ccd67bdd2bb5b1f08aa1e5c17d302b26ebf7cff84f57091df3",
+      "width": 640,
+      "height": 144,
+      "mode": "RGBA"
+    },
+    {
+      "file": "payout-heist-complete-stamp.png",
+      "bytes": 3746,
+      "sha256": "7fcf84ab03bc24c261c0bcc9ed1fd328e172d44d3e744919ab2dc3bb327e4427",
+      "width": 384,
+      "height": 192,
+      "mode": "RGBA"
+    },
+    {
+      "file": "busted-arrest-stamp.png",
+      "bytes": 4257,
+      "sha256": "928443c3f3bca5391be40f13ab6e6ec05def056f00aa624d13a83181d8c347a6",
+      "width": 384,
+      "height": 192,
+      "mode": "RGBA"
+    },
+    {
+      "file": "button-hazard-stripe-normal.png",
+      "bytes": 2047,
+      "sha256": "aaeea0a243c89bbf0c6661fe1a81ac058d945490c50b100a73267cc064c18101",
+      "width": 384,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "button-hazard-stripe-hover.png",
+      "bytes": 2058,
+      "sha256": "a9dd85cdb01e4a080d027d4afbbc73adf7f524c15ed3b07cb840eb9dcec381be",
+      "width": 384,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "button-hazard-stripe-pressed.png",
+      "bytes": 1999,
+      "sha256": "986b2b107f6ec44a15b9027c4a622221f08baef7ff931aa2f720e231cf6f8e50",
+      "width": 384,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "button-hazard-stripe-disabled.png",
+      "bytes": 867,
+      "sha256": "1eb876733d542395c5d3e0298709504be65c235ed6a9e3c2ab1e61d9b274a54c",
+      "width": 384,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "button-dark-steel-normal.png",
+      "bytes": 924,
+      "sha256": "d8808a2e4b6f463872a398aa144af34c809ac6742c623eebc9ac08a5e5cb9f31",
+      "width": 384,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "button-dark-steel-hover.png",
+      "bytes": 949,
+      "sha256": "aac25f63da96bd9bf488ede069262916e91b0ed239401cdf3e6b6b5d464fcef9",
+      "width": 384,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "button-dark-steel-pressed.png",
+      "bytes": 904,
+      "sha256": "fbd2c527018a69f13486efaeca1f19ac8d0767d17cb909c099ade6aa0167efd1",
+      "width": 384,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "button-dark-steel-disabled.png",
+      "bytes": 877,
+      "sha256": "82c44ed996c1094d15d3e47fc5224e3650ec9c00659ef961f06ee652e36958df",
+      "width": 384,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "file": "button-round-action-normal.png",
+      "bytes": 1818,
+      "sha256": "3497bb037ab058f18366e8ca3bf93c79ef29353549580f39d08c192c864625e8",
+      "width": 160,
+      "height": 160,
+      "mode": "RGBA"
+    },
+    {
+      "file": "button-round-action-hover.png",
+      "bytes": 1786,
+      "sha256": "af180903b88c362711224b82933b3fc9d9e7e8138643edd175137e980deea6e1",
+      "width": 160,
+      "height": 160,
+      "mode": "RGBA"
+    },
+    {
+      "file": "button-round-action-pressed.png",
+      "bytes": 1793,
+      "sha256": "0a1aa89ad62693e4c83c453b1fcac54fb6e9893191e9babac3837cb557cb838b",
+      "width": 160,
+      "height": 160,
+      "mode": "RGBA"
+    },
+    {
+      "file": "button-round-action-disabled.png",
+      "bytes": 1742,
+      "sha256": "4b2e8052bffe9a76e474ad3889e79de21fc1b3da67fedee8013648d8b6ef91b1",
+      "width": 160,
+      "height": 160,
+      "mode": "RGBA"
+    },
+    {
+      "file": "panel-dark-charcoal.png",
+      "bytes": 930,
+      "sha256": "7eb02b6906963033ee3e04c21bec2a288c392f2ef912188b414da8fb0b33cf2e",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA"
+    },
+    {
+      "file": "panel-hazard-border.png",
+      "bytes": 1315,
+      "sha256": "cb3d4e593f67cf4c0cd397e6161e2dcdc229f6bf86a9805e0d29fc35824fc372",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA"
+    },
+    {
+      "file": "progress-bar-frame.png",
+      "bytes": 518,
+      "sha256": "69405c8268a60e9ea76c3b5d1c92efa3a13037d2f26427f201f40e339bf9cf66",
+      "width": 320,
+      "height": 48,
+      "mode": "RGBA"
+    },
+    {
+      "file": "progress-bar-fill-gold.png",
+      "bytes": 411,
+      "sha256": "6e494ad12812dcbde8e3d6699d4c9bb5a49bcfbe39a0cacfaa8c44a93750a7db",
+      "width": 320,
+      "height": 48,
+      "mode": "RGBA"
+    },
+    {
+      "file": "progress-bar-fill-red.png",
+      "bytes": 411,
+      "sha256": "a4830cfdc66e9959f4fc9bf3eab355b91a8937b83ab04f14f00d4404e259f59d",
+      "width": 320,
+      "height": 48,
+      "mode": "RGBA"
+    },
+    {
+      "file": "minimap-frame-radar-round.png",
+      "bytes": 3209,
+      "sha256": "13271615d82199a903329d2b92d6bf3dc80ade59efe7551300767c32c2621c89",
+      "width": 288,
+      "height": 288,
+      "mode": "RGBA"
+    },
+    {
+      "file": "joystick-base-ring.png",
+      "bytes": 2847,
+      "sha256": "8dfc6f5a136a37ea1917cfa43ea7f0be7dd673c911e9750be564f3edc09710d1",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "file": "joystick-knob-thumb.png",
+      "bytes": 907,
+      "sha256": "b4f9e200475002b4cd983a7752a4231254e40c74f4b789ce14a69ca07f2446a8",
+      "width": 112,
+      "height": 112,
+      "mode": "RGBA"
+    }
+  ]
+}

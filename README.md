@@ -125,3 +125,7 @@ Each pack's licence is verified pack by pack rather than assumed, and named in t
 - **Mixed-format packs** are filed by their dominant use; a pack tagged one theme often contains props usable elsewhere - browse adjacent themes too.
 - A few Kenney *Mobile Controls* high-DPI ("@2x") variants were omitted because their filenames use characters this filesystem can't store - the standard-resolution versions are all present.
 - Kenney's legacy **Archive** (superseded older versions), promotional **Goodies**, and sample projects were left out to keep the library clean. Grab the full original collection from [kenney.nl](https://kenney.nl) if you need them.
+
+## Crowbar Heist Kit
+
+[3D props and characters](run-crowbar-heist-kit/3D/city), [HUD components](run-crowbar-heist-kit/ui), [icons](run-crowbar-heist-kit/icons), and [heist audio](run-crowbar-heist-kit/audio) by Series Entertainment. Includes 40 props, four rigged characters, 48 UI components, 40 icon pairs, 36 sound effects and four music cues. Visuals use CC0; audio uses the RUN License. Each leaf includes its complete terms and editable sources.

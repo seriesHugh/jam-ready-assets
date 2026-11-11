@@ -1,0 +1,40 @@
+bank-alarm-bell_loop.ogg: 176400 samples, 44100 Hz, 2 channels, LUFS -15.9
+alarm-klaxon-buzzer_loop.ogg: 88200 samples, 44100 Hz, 1 channels, LUFS -15.9
+police-siren-near_loop.ogg: 264600 samples, 44100 Hz, 2 channels, LUFS -15.9
+police-siren-far_loop.ogg: 264600 samples, 44100 Hz, 2 channels, LUFS -15.1
+police-siren-whoop-burst.ogg: 52920 samples, 44100 Hz, 1 channels, LUFS -16.0
+glass-break-window-01.ogg: 44100 samples, 44100 Hz, 1 channels, LUFS -16.1
+glass-break-window-02.ogg: 44100 samples, 44100 Hz, 1 channels, LUFS -16.1
+glass-break-window-03.ogg: 44100 samples, 44100 Hz, 1 channels, LUFS -16.2
+vault-wheel-spin-metal.ogg: 88200 samples, 44100 Hz, 1 channels, LUFS -16.7
+vault-door-heavy-open.ogg: 154350 samples, 44100 Hz, 1 channels, LUFS -17.0
+vault-door-heavy-slam.ogg: 88200 samples, 44100 Hz, 1 channels, LUFS -16.9
+safe-dial-click-tick.ogg: 6615 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+safe-unlock-clunk-open.ogg: 35280 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+cash-pickup-paper-rustle.ogg: 17640 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+money-bag-zip-close.ogg: 30870 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+gold-bar-pickup-clink.ogg: 17640 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+laser-trip-zap-alarm.ogg: 26460 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+keycard-beep-accept.ogg: 13230 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+keycard-beep-deny.ogg: 17640 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+drill-whir-motor_loop.ogg: 132300 samples, 44100 Hz, 1 channels, LUFS -16.0
+drill-breakthrough-finish.ogg: 66150 samples, 44100 Hz, 1 channels, LUFS -16.2
+car-door-slam-shut.ogg: 26460 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+car-engine-rev-start.ogg: 88200 samples, 44100 Hz, 2 channels, LUFS -16.1
+car-engine-drive_loop.ogg: 176400 samples, 44100 Hz, 2 channels, LUFS -16.0
+tyre-screech-skid.ogg: 66150 samples, 44100 Hz, 1 channels, LUFS -16.1
+guard-hey-alert-shout.ogg: 35280 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+camera-spotted-beep-alert.ogg: 17640 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+camera-servo-pan_loop.ogg: 88200 samples, 44100 Hz, 1 channels, LUFS -16.1
+c4-beep-arming-timer.ogg: 22050 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+c4-explosion-blast-breach.ogg: 110250 samples, 44100 Hz, 1 channels, LUFS -16.0
+crowbar-pry-creak-metal.ogg: 52920 samples, 44100 Hz, 1 channels, LUFS -16.1
+footstep-sneak-soft.ogg: 13230 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+handcuffs-click-arrest.ogg: 22050 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+ui-button-tap-click.ogg: 4410 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+ui-wanted-star-up.ogg: 17640 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+ui-timer-tick-warning.ogg: 8820 samples, 44100 Hz, 1 channels, LUFS subsecond peak normalization
+heist-sneak-stealth_loop.ogg: 3969000 samples, 44100 Hz, 2 channels, LUFS -15.9
+heist-alarm-chase_loop.ogg: 3969000 samples, 44100 Hz, 2 channels, LUFS -15.9
+heist-getaway-drive_loop.ogg: 3969000 samples, 44100 Hz, 2 channels, LUFS -15.9
+heist-payout-win-sting.ogg: 264600 samples, 44100 Hz, 2 channels, LUFS -15.8

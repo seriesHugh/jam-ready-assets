@@ -1,0 +1,368 @@
+{
+  "license": "CC0-1.0",
+  "assets": [
+    {
+      "file": "Models/bank-vault-door.glb",
+      "bytes": 64156,
+      "sha256": "4c6f004435807cb4de82b844eef6a259f2c797bd970aa51b3dcb6f4e3a18392d",
+      "triangles": 744,
+      "clips": [
+        "open",
+        "close",
+        "spin"
+      ]
+    },
+    {
+      "file": "Models/bank-vault-wall-segment.glb",
+      "bytes": 16600,
+      "sha256": "1c9bb37380bd7517cf879157138451bb058a1efe62eecc828ebc97a1d904a6ea",
+      "triangles": 176,
+      "clips": []
+    },
+    {
+      "file": "Models/bank-deposit-box-wall.glb",
+      "bytes": 219760,
+      "sha256": "4cd29dd8d3b014124017ec4affdb7fdd72e3baf859d679282256759957095d41",
+      "triangles": 2284,
+      "clips": []
+    },
+    {
+      "file": "Models/bank-teller-counter-glass.glb",
+      "bytes": 16664,
+      "sha256": "602b143ee35598932f6e4ffc0566ac41654a020d85678245b2b6a1d3bd369e2d",
+      "triangles": 148,
+      "clips": []
+    },
+    {
+      "file": "Models/bank-floor-tile-marble.glb",
+      "bytes": 8340,
+      "sha256": "f137dd4e08fe502e71a6e977efe33e5e1d52894baf6891d8d7d772f0b2f8a00b",
+      "triangles": 68,
+      "clips": []
+    },
+    {
+      "file": "Models/bank-rope-stanchion-barrier.glb",
+      "bytes": 37184,
+      "sha256": "a9184f170132c9c478bb328e8abf05e2f950b57e043e9939a4c50613b04f70c9",
+      "triangles": 456,
+      "clips": []
+    },
+    {
+      "file": "Models/bank-atm-cash-machine.glb",
+      "bytes": 45352,
+      "sha256": "b4443de00e7cdaf6d67624e265909c6ac000c76ed3b0f2531fdf8fef9645515a",
+      "triangles": 496,
+      "clips": []
+    },
+    {
+      "file": "Models/wall-safe-steel.glb",
+      "bytes": 41924,
+      "sha256": "aca119bac34400bba6bd894fafd6c3409d8ba5a2f962850e55dfc964cf335aca",
+      "triangles": 448,
+      "clips": [
+        "open",
+        "close"
+      ]
+    },
+    {
+      "file": "Models/wall-safe-steel-cracked.glb",
+      "bytes": 49360,
+      "sha256": "5ff6b9fb1dfd0ad6e707534c4eddea7d2ccc58ff91bd48a9e706961f25d43267",
+      "triangles": 560,
+      "clips": []
+    },
+    {
+      "file": "Models/floor-safe-heavy.glb",
+      "bytes": 41756,
+      "sha256": "99cd538d302f8782399d3b24f081b3210c7e63251a84ea2cd1dbe5881249b1f2",
+      "triangles": 448,
+      "clips": [
+        "open",
+        "close"
+      ]
+    },
+    {
+      "file": "Models/floor-safe-heavy-cracked.glb",
+      "bytes": 49188,
+      "sha256": "8b1c9ad1f5ddad598fd52349ac62d8bdc8135225154807309d59fee89ffdd995",
+      "triangles": 560,
+      "clips": []
+    },
+    {
+      "file": "Models/money-bag-full.glb",
+      "bytes": 139760,
+      "sha256": "994c05c264c4b31bf22ad73fd647fd5c6cfebc4244d40b3aeee1fa6c8701e284",
+      "triangles": 1384,
+      "clips": []
+    },
+    {
+      "file": "Models/money-bag-half.glb",
+      "bytes": 139724,
+      "sha256": "35825eabb9f7dbccf02be2bfce85b39ce44e5cc5a3b9ce7d8d4bc10d42ee63f8",
+      "triangles": 1384,
+      "clips": []
+    },
+    {
+      "file": "Models/money-bag-dropped.glb",
+      "bytes": 147992,
+      "sha256": "decfc57e9e81cc027d47ad77fb7879d42f0bb963b5dd52912a3838fb195705a5",
+      "triangles": 1444,
+      "clips": []
+    },
+    {
+      "file": "Models/cash-stack-bundle.glb",
+      "bytes": 22080,
+      "sha256": "57d1cfac0b682fa61af977e85bd86bd02d4a8b5afd6d29e85271467842986f87",
+      "triangles": 232,
+      "clips": []
+    },
+    {
+      "file": "Models/cash-stack-pile.glb",
+      "bytes": 65808,
+      "sha256": "a9726d1c94770fb33f23616bed8090d2d9b731bec50611ce24ac8d95f7df8095",
+      "triangles": 672,
+      "clips": []
+    },
+    {
+      "file": "Models/gold-bar-single.glb",
+      "bytes": 5220,
+      "sha256": "e4838168430c31a106aebd5b17a4137bc1fe0e7f8581bdc39168e7b4bb4f4b48",
+      "triangles": 44,
+      "clips": []
+    },
+    {
+      "file": "Models/gold-bar-pallet.glb",
+      "bytes": 146568,
+      "sha256": "171c94f4ee8536c27eff107f19081c3e9b22c8889bc6d3cbce482fccf38922ee",
+      "triangles": 1672,
+      "clips": []
+    },
+    {
+      "file": "Models/diamond-gem-loot.glb",
+      "bytes": 5524,
+      "sha256": "b358dc41e4edca787c9a07cda6cc861550a06845bd43621d8b2bb21c930fc359",
+      "triangles": 42,
+      "clips": []
+    },
+    {
+      "file": "Models/diamond-display-case-glass.glb",
+      "bytes": 24744,
+      "sha256": "709febc057b05549f7dff32af9b25436a2e1514fa7a47b8ad55993c25a72e621",
+      "triangles": 272,
+      "clips": []
+    },
+    {
+      "file": "Models/security-camera-swivel.glb",
+      "bytes": 20468,
+      "sha256": "7bb001dd8db107939f82cfeab03275f8db48c04068c8a5f7844dc343b9a6ea42",
+      "triangles": 204,
+      "clips": [
+        "pan"
+      ]
+    },
+    {
+      "file": "Models/laser-grid-emitter-post.glb",
+      "bytes": 20124,
+      "sha256": "bebfae6f02729d9de49a78abe4ac955d6e987dbd779745d07d829f302cd22ab8",
+      "triangles": 216,
+      "clips": []
+    },
+    {
+      "file": "Models/laser-grid-beam-strip.glb",
+      "bytes": 3632,
+      "sha256": "2315fe9a5ab948640eb042761b1b37bc06a2d790a621e0788bc52789ade42eff",
+      "triangles": 28,
+      "clips": []
+    },
+    {
+      "file": "Models/keycard-reader-security-door.glb",
+      "bytes": 23452,
+      "sha256": "d850aa83a51cc04bc9bf7a92e63abd8972a29d2e1a339d292d7da69a7ee08fd1",
+      "triangles": 232,
+      "clips": [
+        "open",
+        "close"
+      ]
+    },
+    {
+      "file": "Models/keycard-access-card-pickup.glb",
+      "bytes": 8440,
+      "sha256": "3fed86f0ddbb806e99501d03747c749b10bde00781cf18cad9792d2bb9ea6514",
+      "triangles": 68,
+      "clips": []
+    },
+    {
+      "file": "Models/alarm-bell-wall-red.glb",
+      "bytes": 12696,
+      "sha256": "45acfc9c78d9b8cebe27a78aa73d38a2c3d7e772a10f2b1561617e792e4f4dc7",
+      "triangles": 132,
+      "clips": [
+        "ring"
+      ]
+    },
+    {
+      "file": "Models/security-desk-monitors.glb",
+      "bytes": 38492,
+      "sha256": "b51f8838da15cc2ea32483ed4507a125a51dc82ea729844e0211ec8392548254",
+      "triangles": 416,
+      "clips": []
+    },
+    {
+      "file": "Models/crowbar-pry-bar.glb",
+      "bytes": 13244,
+      "sha256": "7883bc7722e22da9b9f5b6b7878ed588a7fccc16f885b6762950c42c5448c447",
+      "triangles": 140,
+      "clips": []
+    },
+    {
+      "file": "Models/drill-rig-safe.glb",
+      "bytes": 16260,
+      "sha256": "2e16f170088afc2119edc4adc16c3f233b08b55c67ce6c5c791509ca8fa176a4",
+      "triangles": 156,
+      "clips": [
+        "drill"
+      ]
+    },
+    {
+      "file": "Models/c4-charge-explosive.glb",
+      "bytes": 16376,
+      "sha256": "0ce451ea6a0ea4388ed56c24642fada57675b9915eae2f82107837fb466a4853",
+      "triangles": 152,
+      "clips": []
+    },
+    {
+      "file": "Models/duffel-bag-heist.glb",
+      "bytes": 20896,
+      "sha256": "5cb1062474b5ee7a8f4b3a348eab086276972ddb1002bba86d040ddc5b714eba",
+      "triangles": 224,
+      "clips": []
+    },
+    {
+      "file": "Models/laptop-hacking-open.glb",
+      "bytes": 15288,
+      "sha256": "babce4422d7a899028251f4c17a62b52d0ba68db9cb64a1008c0493aa86391d2",
+      "triangles": 136,
+      "clips": []
+    },
+    {
+      "file": "Models/getaway-van-heist.glb",
+      "bytes": 81452,
+      "sha256": "734d88c8543d45133d0ded62e578faf35003209a7df55f3acb15386377f3e5a0",
+      "triangles": 968,
+      "clips": [
+        "open"
+      ]
+    },
+    {
+      "file": "Models/getaway-sedan-heist.glb",
+      "bytes": 75804,
+      "sha256": "8fd321269d5c273c634025fabf51948b37217f6928662bb2d27e4a0bde3426f8",
+      "triangles": 924,
+      "clips": []
+    },
+    {
+      "file": "Models/police-cruiser-car.glb",
+      "bytes": 88944,
+      "sha256": "763af72908c5463ad6aa7ace7acf025b6c56ed593f5c57b867472382367c0d41",
+      "triangles": 1056,
+      "clips": [
+        "siren"
+      ]
+    },
+    {
+      "file": "Models/armored-cash-truck.glb",
+      "bytes": 81452,
+      "sha256": "6199ca32a1ade65816e99bc2d368939bc5856cbfca4eed53495f1012c324aff3",
+      "triangles": 968,
+      "clips": [
+        "open"
+      ]
+    },
+    {
+      "file": "Models/police-roadblock-barrier.glb",
+      "bytes": 28200,
+      "sha256": "14f466e30ca3b9c4fe0f4d0ca03bce0a1190dd715053436bdccd7f003f714a0f",
+      "triangles": 280,
+      "clips": []
+    },
+    {
+      "file": "Models/police-spike-strip.glb",
+      "bytes": 16548,
+      "sha256": "6106d10c6d3d3790b969d92926a5d223c323069d1d07379d297bf66534670d7f",
+      "triangles": 98,
+      "clips": []
+    },
+    {
+      "file": "Models/traffic-cone-police-striped.glb",
+      "bytes": 9996,
+      "sha256": "e93f3fad62b79ddb37cef56868446fb5e6ce03c6336122f036617adbd5ccb1ee",
+      "triangles": 100,
+      "clips": []
+    },
+    {
+      "file": "Models/alarm-siren-beacon-red.glb",
+      "bytes": 9836,
+      "sha256": "6dc798e7aec51312b3d69631b94224fc9e94ae5a7ad5a4c48cd2b93696badd88",
+      "triangles": 88,
+      "clips": [
+        "spin"
+      ]
+    },
+    {
+      "file": "Characters/robber-balaclava-mask.glb",
+      "bytes": 193500,
+      "sha256": "1f88dbbd4399d82cd7a5ce467d9fa8bafbcb36fb1bf0b1993aee0201a5aa7616",
+      "triangles": 1152,
+      "clips": [
+        "idle",
+        "walk",
+        "run",
+        "sneak",
+        "alert_point",
+        "hands_up"
+      ]
+    },
+    {
+      "file": "Characters/robber-clown-mask.glb",
+      "bytes": 190332,
+      "sha256": "8adad14bcd214bcba7f947d387695883e396a37aafc929d7fcfd9945bbd67d8c",
+      "triangles": 1136,
+      "clips": [
+        "idle",
+        "walk",
+        "run",
+        "sneak",
+        "alert_point",
+        "hands_up"
+      ]
+    },
+    {
+      "file": "Characters/security-guard-flashlight.glb",
+      "bytes": 172868,
+      "sha256": "8a1ad786e6ab34e6746b0636734991ddf6eb816f0b4961af3ceadc4b8ef653a5",
+      "triangles": 912,
+      "clips": [
+        "idle",
+        "walk",
+        "run",
+        "sneak",
+        "alert_point",
+        "hands_up"
+      ]
+    },
+    {
+      "file": "Characters/police-officer-cap.glb",
+      "bytes": 179500,
+      "sha256": "ac81477d1511e607c3c99adfd46649f48dc36cbcb5aff1d04403da0ab5d55653",
+      "triangles": 972,
+      "clips": [
+        "idle",
+        "walk",
+        "run",
+        "sneak",
+        "alert_point",
+        "hands_up"
+      ]
+    }
+  ]
+}

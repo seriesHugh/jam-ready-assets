@@ -8115,6 +8115,52 @@
       "height": 512,
       "bytes": 18020,
       "recipe": "sharp-0.34.5-webp-1.6.0-512-fit-inside-q85-75-65-v1-frame0"
+    },
+    "run-crowbar-heist-kit/3D/city": {
+      "kind": "derived",
+      "sourceUrl": "https://github.com/series-ai/jam-ready-assets",
+      "sourcePath": "run-crowbar-heist-kit/3D/city/Source/cover.png",
+      "sourceSha256": "cf6e32aabfdcf76e048a94613b406b683763ef42bcf2c5a93e2df566501f45bc",
+      "licenseEvidence": "run-crowbar-heist-kit/3D/city/License.txt",
+      "description": "Original assembled preview of the delivered Crowbar assets; no separate storefront cover exists.",
+      "outputSha256": "aec5c641ae9f970b18aab38d182425323927afa582818d10a0d4466853568eb7",
+      "outputSourceSha256": "cf6e32aabfdcf76e048a94613b406b683763ef42bcf2c5a93e2df566501f45bc",
+      "width": 512,
+      "height": 320,
+      "bytes": 9766,
+      "recipe": "sharp-0.34.5-webp-1.6.0-512-fit-inside-q85-75-65-v1-frame0"
+    },
+    "run-crowbar-heist-kit/icons": {
+      "kind": "derived",
+      "sourceUrl": "https://github.com/series-ai/jam-ready-assets",
+      "sourcePath": "run-crowbar-heist-kit/icons/Source/cover.png",
+      "sourceSha256": "b3d7bd30f7b36c7ec328478c9d8249ef798f25272fa667b0869664a157cf0bbd",
+      "licenseEvidence": "run-crowbar-heist-kit/icons/License.txt",
+      "description": "Original assembled preview of the delivered Crowbar assets; no separate storefront cover exists.",
+      "outputSha256": "f18176788210f2728916916061f390dc40cbdd25a24d3c7921f3ee585cc09b07",
+      "outputSourceSha256": "b3d7bd30f7b36c7ec328478c9d8249ef798f25272fa667b0869664a157cf0bbd",
+      "width": 512,
+      "height": 341,
+      "bytes": 10974,
+      "recipe": "sharp-0.34.5-webp-1.6.0-512-fit-inside-q85-75-65-v1-frame0"
+    },
+    "run-crowbar-heist-kit/ui": {
+      "kind": "derived",
+      "sourceUrl": "https://github.com/series-ai/jam-ready-assets",
+      "sourcePath": "run-crowbar-heist-kit/ui/Source/hud-composition.png",
+      "sourceSha256": "8566f769bdc76950d949b31f684aa3bc7f342a1486458a73973c0adef9f62319",
+      "licenseEvidence": "run-crowbar-heist-kit/ui/License.txt",
+      "description": "Original assembled preview of the delivered Crowbar assets; no separate storefront cover exists.",
+      "outputSha256": "598d8d588bff85f1545dad9ebeab5eb90635951186497f04f90e9652acc4818e",
+      "outputSourceSha256": "8566f769bdc76950d949b31f684aa3bc7f342a1486458a73973c0adef9f62319",
+      "width": 288,
+      "height": 512,
+      "bytes": 9290,
+      "recipe": "sharp-0.34.5-webp-1.6.0-512-fit-inside-q85-75-65-v1-frame0"
+    },
+    "run-crowbar-heist-kit/audio": {
+      "kind": "none",
+      "reason": "Audio collection without separate cover art."
     }
   }
 }

@@ -1,0 +1,360 @@
+[
+  {
+    "file": "Sfx/bank-alarm-bell_loop.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "bank-alarm-bell_loop.wav",
+    "masterSha256": "d840aa4eca593d5ac8cca48af4a5317f0f321eec7fd7e9392fc8f166d142661f",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "39a49a1fd9ee171d7e2bd36abe374ca2cd52bdf4e80d571ec951ffbf539954cd",
+    "candidate": "candidate_003.wav"
+  },
+  {
+    "file": "Sfx/alarm-klaxon-buzzer_loop.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "alarm-klaxon-buzzer_loop.wav",
+    "masterSha256": "99f0c97a98d9f5c0545fee993bf8c7c4603062f1a7821d2f42e21e72cd98f463",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "5b4844b4cf37a9150d662132620b900427a61b1d1c9a865ab0eae92123123ff4",
+    "candidate": "candidate_003.wav"
+  },
+  {
+    "file": "Sfx/police-siren-near_loop.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "police-siren-near_loop.wav",
+    "masterSha256": "20676c54136c4e835e75388305e177ccce87e4acee2a0b4718ac6ba3326b7369",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "4fc4d5cfc8aaa808de3bd04618c3ab863dbcf9fdce96d317dd88080ee70dbaa0",
+    "candidate": "candidate_003.wav"
+  },
+  {
+    "file": "Sfx/police-siren-far_loop.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "police-siren-far_loop.wav",
+    "masterSha256": "fc56f97f497d8f3bc9fccc5b30d9eb073c8c5b5e3ec799d49c57c64320b456b1",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "8919a41bdc892a7313916922bee386fea12a16b88c11e8d707dd21c3c24c5f61",
+    "candidate": "candidate_001.wav"
+  },
+  {
+    "file": "Sfx/police-siren-whoop-burst.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "police-siren-whoop-burst.wav",
+    "masterSha256": "81cbdce40d1d0fa25f7cbd3021e36834e110df5879291ee2a341089fba432541",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "cb8f075a0daeef0f657a454bfd48c2d6d9f2e6753a119cbec00939e5fc574c01",
+    "candidate": "candidate_001.wav"
+  },
+  {
+    "file": "Sfx/glass-break-window-01.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "glass-break-window-01.wav",
+    "masterSha256": "c713310b89167ff094175dcf819c377422e2af03fba4b8514112d966fe1e0bd5",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "dd4adaa648979055210bce4015491cb93464d8fda4fcba2e61ed20c41cfe29ea",
+    "candidate": "candidate_001.wav"
+  },
+  {
+    "file": "Sfx/glass-break-window-02.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "glass-break-window-02.wav",
+    "masterSha256": "9e894f82b0f9132943a5f23200449e1f3775bad646f16dfb85999b948c7a8578",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "6a77527cb328e148406bdc931a04725a96a93131ea924d4a7c55f3bf518fb9f5",
+    "candidate": "candidate_002.wav"
+  },
+  {
+    "file": "Sfx/glass-break-window-03.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "glass-break-window-03.wav",
+    "masterSha256": "3c28bfa8d6551a42779b289d420c965247ce50dfafac76ad4931a4e862630f30",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "21ef9e209a30715b74652f2e1f8f4139028fc748984ed9ad7d737dabe5ce3f7c",
+    "candidate": "candidate_003.wav"
+  },
+  {
+    "file": "Sfx/vault-wheel-spin-metal.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "vault-wheel-spin-metal.wav",
+    "masterSha256": "13c2184e5bf855099302efbf665e4474480a7b2c5574a1a0c8f3b8e104ffec26",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "1b3548951f9b651da317dff8c19eb122a2e84802e5b97ae806650e8494fabbdd",
+    "candidate": "candidate_001.wav"
+  },
+  {
+    "file": "Sfx/vault-door-heavy-open.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "vault-door-heavy-open.wav",
+    "masterSha256": "f44bc3fb0e00104b93c85ff384c1d0c64811412942060f0d8fee6b648c54d930",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "6694181620ec63e927f39553479bb8562ebb9f21610699a4c0e04972129278aa",
+    "candidate": "candidate_002.wav"
+  },
+  {
+    "file": "Sfx/vault-door-heavy-slam.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "vault-door-heavy-slam.wav",
+    "masterSha256": "2be380ee4dfed08129cc39a0e24207463b49858b59c26a328e53bf81fee86d84",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "9590b7ea5a12a9ef8c26208dd237800a26365fefab548f01a7efaeffc49a0ad8",
+    "candidate": "candidate_003.wav"
+  },
+  {
+    "file": "Sfx/safe-dial-click-tick.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "safe-dial-click-tick.wav",
+    "masterSha256": "4107a0138bcdc2a46d81cccdb52bc08e5bf47aba7bedc5b2c98446b45098764f",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "fcf12383538672882477f13cb6274e279a1df174966f004e45d66d1d636f4bc0",
+    "candidate": "candidate_002.wav"
+  },
+  {
+    "file": "Sfx/safe-unlock-clunk-open.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "safe-unlock-clunk-open.wav",
+    "masterSha256": "bb3f65e0ae0cb4d75e992ee53daeec721bc94d09a357dcf6e85f34095982763f",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "d92c19b41615c1d0a057590e990c7a331964c1a85b44961220b9dce03d6bf109",
+    "candidate": "candidate_001.wav"
+  },
+  {
+    "file": "Sfx/cash-pickup-paper-rustle.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "cash-pickup-paper-rustle.wav",
+    "masterSha256": "0b0aee942492ad9cf865bc5b58643d9d040fec2b5da7ee81ba6894c063b377a1",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "f750effb1bcdb1dd6776ca1424fca2eaf82758fcbc487889f2f5d5389c136ff2",
+    "candidate": "candidate_003.wav"
+  },
+  {
+    "file": "Sfx/money-bag-zip-close.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "money-bag-zip-close.wav",
+    "masterSha256": "e9e0979ea351713e98b407afaa16daddf79c592315cdda9119f3533864398cac",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "043f5b1c9782809f1c365e4f01fe14b0f6beffdecd86b9ca6e38bb27d63f2362",
+    "candidate": "candidate_001.wav"
+  },
+  {
+    "file": "Sfx/gold-bar-pickup-clink.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "gold-bar-pickup-clink.wav",
+    "masterSha256": "c79537356da6a9248c0d8f8efec645bcffbb9286eafee4a9213acafd8d6136fc",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "fc375a19c0ce28d9bce697260595047f05ae199e38eda9f92ed9b2f8756ea7eb",
+    "candidate": "candidate_003.wav"
+  },
+  {
+    "file": "Sfx/laser-trip-zap-alarm.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "laser-trip-zap-alarm.wav",
+    "masterSha256": "e54feb86a7c68379022508147ca4735028827045305e28801f24883ba678c9d3",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "5ad456f70a3d02937033afc0a348d8ee59f6186b673840baf3879804c64cbe39",
+    "candidate": "candidate_003.wav"
+  },
+  {
+    "file": "Sfx/keycard-beep-accept.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "keycard-beep-accept.wav",
+    "masterSha256": "d2dabcb57856df6c1e01c09435ffd39f03d38e314d54d131da0b8becd55e9c78",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "62af68b57bddf354a97a811363edba9d02daebd64eb12b651119ef5d22917f9c",
+    "candidate": "candidate_002.wav"
+  },
+  {
+    "file": "Sfx/keycard-beep-deny.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "keycard-beep-deny.wav",
+    "masterSha256": "bf906f924a89fe57bb26e9580253b50995537ab0e35d09ea76a30edd412c1a46",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "d70a7305cae4ce756586a0d4fb9667d7100c530836220125b9e6f0572f1df757",
+    "candidate": "candidate_003.wav"
+  },
+  {
+    "file": "Sfx/drill-whir-motor_loop.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "drill-whir-motor_loop.wav",
+    "masterSha256": "9587220479919566761c25ccafd2d153e6e17defe2eb4de2a26106f03bc641d8",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "265a4afdfd44373930513d50c3a1f036bab03156d3f433f73e44dca261e77ac2",
+    "candidate": "candidate_001.wav"
+  },
+  {
+    "file": "Sfx/drill-breakthrough-finish.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "drill-breakthrough-finish.wav",
+    "masterSha256": "877501cbedf2c1b8834e3dabeec24b45cdba32661549d10ac74bc0c07d116ba9",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "2498e405c24e95eea69c54c1c7b59c5c3acb22e379d192fae5cc9da4ae92b676",
+    "candidate": "candidate_002.wav"
+  },
+  {
+    "file": "Sfx/car-door-slam-shut.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "car-door-slam-shut.wav",
+    "masterSha256": "ace58313fbc96f2e6cf388111ef628d5a83aa10f88cff91837e1631c6dc6db7e",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "a45763771dd23d72f63a787571d23ba721f36aa6fdc3a92939109d98349e26e7",
+    "candidate": "candidate_002.wav"
+  },
+  {
+    "file": "Sfx/car-engine-rev-start.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "car-engine-rev-start.wav",
+    "masterSha256": "60c8294b28ca6618281ab15e3012c5923ad1b127343c034b0a7d0c7dfa1a2a58",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "70ad4defa3c8685061d7b53eb19c664b5a1e55d6f0ab6274009aefe0497741ad",
+    "candidate": "candidate_001.wav"
+  },
+  {
+    "file": "Sfx/car-engine-drive_loop.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "car-engine-drive_loop.wav",
+    "masterSha256": "38305f2506185f14ff0e9af4a643c97007ebc167c66d6f96a918a3de4379d725",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "6564183c08d497fccdfd948e710bfaac274b8a0551b13771834a78cd0e1af06b",
+    "candidate": "candidate_001.wav"
+  },
+  {
+    "file": "Sfx/tyre-screech-skid.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "tyre-screech-skid.wav",
+    "masterSha256": "b9f81ab07173b77146a8319f1c82bbb62df65e4dc1bfd0d4de0a3169d23cb808",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "b9a37fa6e83c50c745b8d640aa941a58348df42755bd5081b3d0b4852644ba61",
+    "candidate": "candidate_003.wav"
+  },
+  {
+    "file": "Sfx/guard-hey-alert-shout.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "guard-hey-alert-shout.wav",
+    "masterSha256": "375c5d07cfa594713a4956cd89869b142fc9857dd4ffad57a46e7bc1e563bf26",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "67411244c12257c2b49173cf50297d0d5cb1b85b922e56dfe4cf13a58e6888d3",
+    "candidate": "candidate_003.wav"
+  },
+  {
+    "file": "Sfx/camera-spotted-beep-alert.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "camera-spotted-beep-alert.wav",
+    "masterSha256": "aeecfd561406d291264a1cd7cf46c60b6ce70655cd698f69a22924f8e5411469",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "fd39e62277d42439b9d679bffcda3a974bcb1112df35f409adb647309258eaf6",
+    "candidate": "candidate_001.wav"
+  },
+  {
+    "file": "Sfx/camera-servo-pan_loop.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "camera-servo-pan_loop.wav",
+    "masterSha256": "725f14deff5af46531b73f8089ed940e80a78c131eedc813f15cfda82bca21f8",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "33d7314cfbe1db079656c72424bcff076e4f71eb894539e91df2d4dbcc5673a6",
+    "candidate": "candidate_001.wav"
+  },
+  {
+    "file": "Sfx/c4-beep-arming-timer.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "c4-beep-arming-timer.wav",
+    "masterSha256": "cfbc39bf69709bcbdd7755a6bd5bc73989a7dcac75efe4b1e7b5f1b2923ba329",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "7e78fb58c675b6b85da0b8e6302d91d61f7c50b6aa6e3fa2234b95cccbed3588",
+    "candidate": "candidate_002.wav"
+  },
+  {
+    "file": "Sfx/c4-explosion-blast-breach.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "c4-explosion-blast-breach.wav",
+    "masterSha256": "afafd75145de8aaf6093473f589a4cbba2ec5117d3a404489798e316c8f82bde",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "961ce9d764750bb66ed9f36372f5ccff88ccab9db62f12dcc90ab57758dd49b5",
+    "candidate": "candidate_003.wav"
+  },
+  {
+    "file": "Sfx/crowbar-pry-creak-metal.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "crowbar-pry-creak-metal.wav",
+    "masterSha256": "c47b5782497db77a7a8a961283ae9e9fd25fc5de0b8f536a62c46ea87dd8bbdb",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "7ce59a6fc044584855d8b7a784fcb7530112802c421f4a0e0ebce5f34f31f1f7",
+    "candidate": "candidate_002.wav"
+  },
+  {
+    "file": "Sfx/footstep-sneak-soft.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "footstep-sneak-soft.wav",
+    "masterSha256": "eb65fa835f08443d35926a5780bd1847727175bc8248882b591151766fda3b8a",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "2930feab459b2d7a001af71198940e4945a089278f7ac84666cd141eb9128795",
+    "candidate": "candidate_001.wav"
+  },
+  {
+    "file": "Sfx/handcuffs-click-arrest.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "handcuffs-click-arrest.wav",
+    "masterSha256": "a816f5c5a0f5a76ca9d512c70cba396ab00f61d17a8f33fb90460d374326a070",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "537ccebfb51cb7812904da4deb9e44dcabb82bada11cee6add982aa4e760b914",
+    "candidate": "candidate_002.wav"
+  },
+  {
+    "file": "Sfx/ui-button-tap-click.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "ui-button-tap-click.wav",
+    "masterSha256": "baba715d7d11f9002743bd51fd8dcc50d830fb0fc7579ab365994c12e6771855",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "cdc256c60365240314f8cb6a24f2c2d12132a32e21409aed570bbec6471cbf81",
+    "candidate": "candidate_002.wav"
+  },
+  {
+    "file": "Sfx/ui-wanted-star-up.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "ui-wanted-star-up.wav",
+    "masterSha256": "a6e1abfb3970f3793bea662d8022a89bebf9c0835d4e81fce8ab340ff391f6ae",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "4e3f42252a9865e9b18cacf25c27c943b47adf86d442f99e77483d82e1699f89",
+    "candidate": "candidate_002.wav"
+  },
+  {
+    "file": "Sfx/ui-timer-tick-warning.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "ui-timer-tick-warning.wav",
+    "masterSha256": "d00523a1517beee282cac0e2959d44e93eb21103f6f0e0325fc28892dff42332",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "c7a58604da6bfc249b8eaf78a0392bbb7cdd36bc1ae84942e4bc097f708c07fa",
+    "candidate": "candidate_003.wav"
+  },
+  {
+    "file": "Music/heist-sneak-stealth_loop.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "heist-sneak-stealth_loop.wav",
+    "masterSha256": "9f1e42de86ed5b6bc3ebba7b8235c2dc957bae1d6189915fd37153c85d31837d",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "source": "shared generated six-layer 128 BPM bed; paired arrangement"
+  },
+  {
+    "file": "Music/heist-alarm-chase_loop.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "heist-alarm-chase_loop.wav",
+    "masterSha256": "71f31af8019cb471b93eb51fe238717e31b2390ca2e51b6a745dacf2e8569abd",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "source": "shared generated six-layer 128 BPM bed; paired arrangement"
+  },
+  {
+    "file": "Music/heist-getaway-drive_loop.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "heist-getaway-drive_loop.wav",
+    "masterSha256": "51b94f75b27ae6187b05025ea3f11bdb653df013f46ef2d28f5530afb25f62cd",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "3fb41165b6253fb3f9526392ecc799b2ae8fd7f31273492956d709e215a26f7c",
+    "candidate": "candidate_002.wav"
+  },
+  {
+    "file": "Music/heist-payout-win-sting.ogg",
+    "provider": "ElevenLabs via fal-ai",
+    "master": "heist-payout-win-sting.wav",
+    "masterSha256": "4037d5bac9b5056fba7aa4a4376fd44696727f3c39de89426b7aacb86700d23b",
+    "processing": "44100 Hz, exact sample trim, loop endpoint treatment where applicable, loudness normalization, Vorbis encoding",
+    "sourceSha256": "5c7fdc69e58fce21c1d0e12166b4b33d2ff98fbc65a52f73507077b8d557c2e9",
+    "candidate": "candidate_001.wav"
+  }
+]

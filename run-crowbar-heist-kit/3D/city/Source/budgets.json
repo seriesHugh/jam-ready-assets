@@ -1,0 +1,28 @@
+{
+  "character_height_H": 0.243,
+  "door_height": 0.27,
+  "lane_width": 0.29,
+  "storey_height": 0.4,
+  "triangle_ceilings": {
+    "S1": 256,
+    "S2": 1800,
+    "S3": 1800,
+    "S4": 2500,
+    "S5": 1600,
+    "S6": 1800,
+    "character": 1600
+  },
+  "palette_texture_size": [
+    32,
+    16
+  ],
+  "rationale": {
+    "S1": "Small geometric pickups need at most 256 triangles.",
+    "S2": "Generated bag silhouette and tie set the 1800 ceiling.",
+    "S3": "Stacked gold pallet sets the 1800 ceiling.",
+    "S4": "Repeated deposit-box details set the 2500 ceiling.",
+    "S5": "Beveled cars and separate wheels fit below 1600.",
+    "S6": "Box-bodied articulated vans fit below 1800.",
+    "character": "Shared rigid-part humanoids and attachments fit below 1600."
+  }
+}

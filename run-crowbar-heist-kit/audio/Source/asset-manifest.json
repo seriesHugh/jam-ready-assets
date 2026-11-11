@@ -1,0 +1,348 @@
+{
+  "license": "LicenseRef-RUN-Repository-Supplemental-1.0",
+  "assets": [
+    {
+      "file": "Sfx/bank-alarm-bell_loop.ogg",
+      "bytes": 78041,
+      "sha256": "369e94739ba54590b6f5c2e36549ecfefb9010857375dc90a44c57dcf9900e87",
+      "samples": 176400,
+      "rate": 44100,
+      "channels": 2,
+      "LUFS": -15.9
+    },
+    {
+      "file": "Sfx/alarm-klaxon-buzzer_loop.ogg",
+      "bytes": 20747,
+      "sha256": "29077ecc8cd56dcd4a26f7517c5fdc9ab539bf3152b1fe765d9ad24576b41fca",
+      "samples": 88200,
+      "rate": 44100,
+      "channels": 1,
+      "LUFS": -15.9
+    },
+    {
+      "file": "Sfx/police-siren-near_loop.ogg",
+      "bytes": 92173,
+      "sha256": "41112b6db5799b4fd655f9e6674926da0c72193c5a943c84bbfa887e4a77e7cc",
+      "samples": 264600,
+      "rate": 44100,
+      "channels": 2,
+      "LUFS": -15.9
+    },
+    {
+      "file": "Sfx/police-siren-far_loop.ogg",
+      "bytes": 100164,
+      "sha256": "b77633dc76c189848ac3f0dac1682e6375ca64e7d34d75b87bbec7ec3d4bcffe",
+      "samples": 264600,
+      "rate": 44100,
+      "channels": 2,
+      "LUFS": -15.1
+    },
+    {
+      "file": "Sfx/police-siren-whoop-burst.ogg",
+      "bytes": 16573,
+      "sha256": "821882f9dc272249fe3afc4e035b727919e64d846b2899f621f2873d86e59950",
+      "samples": 52920,
+      "rate": 44100,
+      "channels": 1,
+      "LUFS": -16.0
+    },
+    {
+      "file": "Sfx/glass-break-window-01.ogg",
+      "bytes": 16136,
+      "sha256": "35b44fc1c6ce7246d4b1c258a9024383918798f9fa289e3a5e7720c90b93aa4a",
+      "samples": 44100,
+      "rate": 44100,
+      "channels": 1,
+      "LUFS": -16.1
+    },
+    {
+      "file": "Sfx/glass-break-window-02.ogg",
+      "bytes": 16036,
+      "sha256": "46faa7c78c027da7bcb548c6922161f17669eed4b11ca359607cfc53db1521f5",
+      "samples": 44100,
+      "rate": 44100,
+      "channels": 1,
+      "LUFS": -16.1
+    },
+    {
+      "file": "Sfx/glass-break-window-03.ogg",
+      "bytes": 15950,
+      "sha256": "1af5351d8b2443d367cb467d74af263d0a38a309e3f450330cf6ab69e1348439",
+      "samples": 44100,
+      "rate": 44100,
+      "channels": 1,
+      "LUFS": -16.2
+    },
+    {
+      "file": "Sfx/vault-wheel-spin-metal.ogg",
+      "bytes": 27150,
+      "sha256": "fef7c67fd665a85c0c8c4a976e298e0ceedc8cd320f994ab8d5cf1c928b2663d",
+      "samples": 88200,
+      "rate": 44100,
+      "channels": 1,
+      "LUFS": -16.7
+    },
+    {
+      "file": "Sfx/vault-door-heavy-open.ogg",
+      "bytes": 40697,
+      "sha256": "608b4a19b6d1798d1f2109e2dacc9576944658539dcdfb253889e44675b70b3f",
+      "samples": 154350,
+      "rate": 44100,
+      "channels": 1,
+      "LUFS": -17.0
+    },
+    {
+      "file": "Sfx/vault-door-heavy-slam.ogg",
+      "bytes": 22016,
+      "sha256": "423672a85041270854a87ecbd5e2a9b7a4d120d39f5a916c3ec685e4ec2d6af6",
+      "samples": 88200,
+      "rate": 44100,
+      "channels": 1,
+      "LUFS": -16.9
+    },
+    {
+      "file": "Sfx/safe-dial-click-tick.ogg",
+      "bytes": 6366,
+      "sha256": "63a05f13ca25c356130abe454993d19237a70f4f525eb0bfdbf322d66e4a6c6f",
+      "samples": 6615,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/safe-unlock-clunk-open.ogg",
+      "bytes": 12478,
+      "sha256": "2b1d8c64618c830004f0606d17f27197232977d6840d3c6a70ec55cc6542ced3",
+      "samples": 35280,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/cash-pickup-paper-rustle.ogg",
+      "bytes": 9652,
+      "sha256": "13fb51e100bd33de36c9413fac95c2beab06705fc5d05899db9caa6e9987ced3",
+      "samples": 17640,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/money-bag-zip-close.ogg",
+      "bytes": 11935,
+      "sha256": "0a0e0ee83b4cbd103016d0fe35ab0ab5b57402c7432e27556db2abcd78c722b9",
+      "samples": 30870,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/gold-bar-pickup-clink.ogg",
+      "bytes": 8385,
+      "sha256": "f4ddf10100a9a89d917ddf6273e58e7da786cee041214e66b575c0bb1aad07a7",
+      "samples": 17640,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/laser-trip-zap-alarm.ogg",
+      "bytes": 9060,
+      "sha256": "bb041ff9ed31ccd7c28a8f2311861e1e25babfde79841c2dc05dfc75e0a35f4d",
+      "samples": 26460,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/keycard-beep-accept.ogg",
+      "bytes": 7595,
+      "sha256": "d01c1ad6b7349855fa4470b708a1d7c48a7acb3fd9e894cf3f31aeaa66e0f6b2",
+      "samples": 13230,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/keycard-beep-deny.ogg",
+      "bytes": 9919,
+      "sha256": "fba11087f856ac6ffcdce931c4487869f65f002b2150df005d58f76da579ef17",
+      "samples": 17640,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/drill-whir-motor_loop.ogg",
+      "bytes": 38541,
+      "sha256": "4b30a791b74cded312982e848e70178928cfb873afdb69f89623ffb42d046556",
+      "samples": 132300,
+      "rate": 44100,
+      "channels": 1,
+      "LUFS": -16.0
+    },
+    {
+      "file": "Sfx/drill-breakthrough-finish.ogg",
+      "bytes": 21266,
+      "sha256": "4a9424b95b7cb5112badee74b1fa75accbe8d6949b2f5729a39def493d45ae1b",
+      "samples": 66150,
+      "rate": 44100,
+      "channels": 1,
+      "LUFS": -16.2
+    },
+    {
+      "file": "Sfx/car-door-slam-shut.ogg",
+      "bytes": 9569,
+      "sha256": "8575571f58998faf7fd7138c85f5403eb315b313da14f2cef9df34152ff08873",
+      "samples": 26460,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/car-engine-rev-start.ogg",
+      "bytes": 40189,
+      "sha256": "8813b27577758524424630075356ecdf51710fc863ede4cea95a8372f36e9376",
+      "samples": 88200,
+      "rate": 44100,
+      "channels": 2,
+      "LUFS": -16.1
+    },
+    {
+      "file": "Sfx/car-engine-drive_loop.ogg",
+      "bytes": 74688,
+      "sha256": "0e290a1610ff74cb38a7b190e85c09c20c96bd2560856633bf6e2cda8429dc22",
+      "samples": 176400,
+      "rate": 44100,
+      "channels": 2,
+      "LUFS": -16.0
+    },
+    {
+      "file": "Sfx/tyre-screech-skid.ogg",
+      "bytes": 19005,
+      "sha256": "b23e5785bbd8dce7f208cb2b3d813659350f92c1ee8e108213ee8c5540874290",
+      "samples": 66150,
+      "rate": 44100,
+      "channels": 1,
+      "LUFS": -16.1
+    },
+    {
+      "file": "Sfx/guard-hey-alert-shout.ogg",
+      "bytes": 11108,
+      "sha256": "3670d048e9dc59c5d805ae45acd627d5e7b3e21775ba85bc6d0963ea9a0c4fd8",
+      "samples": 35280,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/camera-spotted-beep-alert.ogg",
+      "bytes": 8913,
+      "sha256": "3d982d245fd8d2d625f56c21318c7cf369939f5febe2ce7689abeaada6249db3",
+      "samples": 17640,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/camera-servo-pan_loop.ogg",
+      "bytes": 27430,
+      "sha256": "9c178509006b15760306ec449d45e0081766f469c57098ad49a17dd1ceb1da17",
+      "samples": 88200,
+      "rate": 44100,
+      "channels": 1,
+      "LUFS": -16.1
+    },
+    {
+      "file": "Sfx/c4-beep-arming-timer.ogg",
+      "bytes": 10880,
+      "sha256": "a31eeabebe4a1ff226d867c2dedc2f1c5d5d048f98fe5fdfbe7cef7753f06eac",
+      "samples": 22050,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/c4-explosion-blast-breach.ogg",
+      "bytes": 31900,
+      "sha256": "d5acc661a37eeb28fa6bba1cc188151bb5356b25a25b9be2f25a881a2be8b743",
+      "samples": 110250,
+      "rate": 44100,
+      "channels": 1,
+      "LUFS": -16.0
+    },
+    {
+      "file": "Sfx/crowbar-pry-creak-metal.ogg",
+      "bytes": 16259,
+      "sha256": "db5c25b8c1f28ee2c7591990dea33d602d549b36ec1bbed61010876c4d40d0e7",
+      "samples": 52920,
+      "rate": 44100,
+      "channels": 1,
+      "LUFS": -16.1
+    },
+    {
+      "file": "Sfx/footstep-sneak-soft.ogg",
+      "bytes": 7440,
+      "sha256": "d65ec6ac118175b4ec0962d0dd29e9fa00c0167f6c2187aa801ff5b3a384c808",
+      "samples": 13230,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/handcuffs-click-arrest.ogg",
+      "bytes": 10434,
+      "sha256": "f4bb82f38ce94df0bcb190e3b26f0356625fb2de6cf147e5123de03df17f8ee7",
+      "samples": 22050,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/ui-button-tap-click.ogg",
+      "bytes": 5737,
+      "sha256": "da3e90d794782efc6191235bd75783583efc0d8283d5266e52b45b0c73ac6fb5",
+      "samples": 4410,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/ui-wanted-star-up.ogg",
+      "bytes": 8844,
+      "sha256": "4c7439e6c50dab09473a59b1f08e9eaba28b9bbee3d8098353a24c829d3eb9c2",
+      "samples": 17640,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Sfx/ui-timer-tick-warning.ogg",
+      "bytes": 6497,
+      "sha256": "20b5fbb562df881fe05989d39753bfb5062e208decab88d49e3061839d5f5456",
+      "samples": 8820,
+      "rate": 44100,
+      "channels": 1
+    },
+    {
+      "file": "Music/heist-sneak-stealth_loop.ogg",
+      "bytes": 2105126,
+      "sha256": "387d76a224d7852a9024c6c3030ea824b43c78ceaaf8252a55787ad18d73d0ae",
+      "samples": 3969000,
+      "rate": 44100,
+      "channels": 2,
+      "LUFS": -15.9
+    },
+    {
+      "file": "Music/heist-alarm-chase_loop.ogg",
+      "bytes": 1986661,
+      "sha256": "720bc3ba8c18ec58580618ac6b4112a4c999d00bcb4971732c8553db0124622e",
+      "samples": 3969000,
+      "rate": 44100,
+      "channels": 2,
+      "LUFS": -15.9
+    },
+    {
+      "file": "Music/heist-getaway-drive_loop.ogg",
+      "bytes": 2113223,
+      "sha256": "2b8c195150fb35e12d0f4952861f44af435ed149bcadc4e33988d918e1a1a367",
+      "samples": 3969000,
+      "rate": 44100,
+      "channels": 2,
+      "LUFS": -15.9
+    },
+    {
+      "file": "Music/heist-payout-win-sting.ogg",
+      "bytes": 146813,
+      "sha256": "4184e713931f48cf78af95550c1255a7ac33a40b51d89c3d3a7b7d5c38d1b973",
+      "samples": 264600,
+      "rate": 44100,
+      "channels": 2,
+      "LUFS": -15.8
+    }
+  ]
+}

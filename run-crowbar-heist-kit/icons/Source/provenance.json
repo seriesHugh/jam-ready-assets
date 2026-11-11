@@ -1,0 +1,352 @@
+[
+  {
+    "subject": "cash-stack-money",
+    "provider": "fal-ai / Nano Banana",
+    "source": "cash-stack-money-source.png",
+    "sourceSha256": "a051ca1c9c6ee7c6696fa5c4a07dc43773b02ae9687a7ab8da34ae4b954e3110",
+    "crop": [
+      0,
+      0,
+      0.25,
+      0.25
+    ],
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "money-bag-loot",
+    "provider": "fal-ai / Nano Banana",
+    "source": "money-bag-loot-source.png",
+    "sourceSha256": "1a717f5b5756ca10afc6b6bb1fb2ca4e4d57468b623385fad104a0012e674231",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "gold-bar-ingot",
+    "provider": "fal-ai / Nano Banana",
+    "source": "gold-bar-ingot-source.png",
+    "sourceSha256": "c9d18d6e7a01adfa8c5da0c3cdf3469d6af1efb9bead155699465871d7e5dd64",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "diamond-gem-jewel",
+    "provider": "fal-ai / Nano Banana",
+    "source": "diamond-gem-jewel-source.png",
+    "sourceSha256": "a051ca1c9c6ee7c6696fa5c4a07dc43773b02ae9687a7ab8da34ae4b954e3110",
+    "crop": [
+      0.75,
+      0,
+      1,
+      0.25
+    ],
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "keycard-access-pass",
+    "provider": "fal-ai / Nano Banana",
+    "source": "keycard-access-pass-source.png",
+    "sourceSha256": "0f01bd1d9a727d0593a4f60c3ae31c845a4a8fd4819f40660f908a690cb14715",
+    "crop": [
+      0,
+      0.25,
+      0.25,
+      0.5
+    ],
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "security-camera-cctv",
+    "provider": "fal-ai / Nano Banana",
+    "source": "security-camera-cctv-source.png",
+    "sourceSha256": "a051ca1c9c6ee7c6696fa5c4a07dc43773b02ae9687a7ab8da34ae4b954e3110",
+    "crop": [
+      0.25,
+      0.25,
+      0.5,
+      0.5
+    ],
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "laser-beam-red",
+    "provider": "fal-ai / Nano Banana",
+    "source": "laser-beam-red-source.png",
+    "sourceSha256": "f2041d4cf2c26645528d52592cb2c2c9276351d0aea132e799ca421609dd0212",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "police-badge-shield",
+    "provider": "fal-ai / Nano Banana",
+    "source": "police-badge-shield-source.png",
+    "sourceSha256": "faea0788e6028ce6403b99eb056a44904df3ca05c8e7d3ea2d4af9ba19f4b190",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "handcuffs-arrest-police",
+    "provider": "fal-ai / Nano Banana",
+    "source": "handcuffs-arrest-police-source.png",
+    "sourceSha256": "f416aaaeb0dd08d672b3a68b6529d615606f992bef6024403ee83020af7839c7",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "balaclava-robber-mask",
+    "provider": "fal-ai / Nano Banana",
+    "source": "balaclava-robber-mask-source.png",
+    "sourceSha256": "7fcafc911ef54bdb9410aef71ec2edb31326165a224620b3da8a0af882d5fdc3",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "clown-robber-mask",
+    "provider": "fal-ai / Nano Banana",
+    "source": "clown-robber-mask-source.png",
+    "sourceSha256": "c77a517b3237b338422e74479c89a7430dce5817b268178e4cad1f53d1c2145a",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "drill-power-tool",
+    "provider": "fal-ai / Nano Banana",
+    "source": "drill-power-tool-source.png",
+    "sourceSha256": "bc00bd6ecd54dea99b33e48d9c22a49314f37da88735c335fe07f935395c8194",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "getaway-car-sedan",
+    "provider": "fal-ai / Nano Banana",
+    "source": "getaway-car-sedan-source.png",
+    "sourceSha256": "85072a2de7bd9d00edc79f23895d45dad2cc7330627f6c744e06490bcc3fa777",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "getaway-van-escape",
+    "provider": "fal-ai / Nano Banana",
+    "source": "getaway-van-escape-source.png",
+    "sourceSha256": "32ef107c8e75aff76b008c3c6f5a1c07de7ad0d43a59f19a8b83d8d3794b0f38",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "police-car-cruiser",
+    "provider": "fal-ai / Nano Banana",
+    "source": "police-car-cruiser-source.png",
+    "sourceSha256": "7aac60bb773e6cb0c82d4230b32f34053ff70358a6a76f57677cbbf2f82ca74d",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "safe-steel-dial",
+    "provider": "fal-ai / Nano Banana",
+    "source": "safe-steel-dial-source.png",
+    "sourceSha256": "1cf1d570bce5202eb9128867751a224052d1fac8a4d53d0897ee2e65ea665154",
+    "crop": [
+      0.31,
+      0.25,
+      0.77,
+      0.78
+    ],
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "vault-door-round",
+    "provider": "fal-ai / Nano Banana",
+    "source": "vault-door-round-source.png",
+    "sourceSha256": "ceeac66dfac8e9d3a0fba1cbaf7f39893f4456f4deda1c996f666554774efe8c",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "crowbar-pry-tool",
+    "provider": "fal-ai / Nano Banana",
+    "source": "crowbar-pry-tool-source.png",
+    "sourceSha256": "0ee718afd0f50b5e9f45c4d5be59218f5a926015f2b6c27b79df387efb9c20d6",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "siren-light-alarm",
+    "provider": "fal-ai / Nano Banana",
+    "source": "siren-light-alarm-source.png",
+    "sourceSha256": "6519adb25e03cf2c65b0ccb6ef2b3e38503b9abd832f0c23ea7c110ff27662fb",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "c4-charge-bomb",
+    "provider": "fal-ai / Nano Banana",
+    "source": "c4-charge-bomb-source.png",
+    "sourceSha256": "bacf92fcb8144fe04efb05038ba153b4b27d609c1b6ac76899480e0dc826d33f",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "duffel-bag-heist",
+    "provider": "fal-ai / Nano Banana",
+    "source": "duffel-bag-heist-source.png",
+    "sourceSha256": "78838ab98fef506325ec8ac8d3051116ab18979dec74a5114cdd6230134be08b",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "alarm-bell-ringing",
+    "provider": "fal-ai / Nano Banana",
+    "source": "alarm-bell-ringing-source.png",
+    "sourceSha256": "39a459fa6aba88fae39bfac02a8471452e49a9525b3109e9a7725651eab7f0e5",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "lockpick-tool-set",
+    "provider": "fal-ai / Nano Banana",
+    "source": "lockpick-tool-set-source.png",
+    "sourceSha256": "77b20ac57e9679e6fa63dd7be54e97f0d1ff31c58eed4f653ea5818fec5bf1f1",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "laptop-hacker-code",
+    "provider": "fal-ai / Nano Banana",
+    "source": "laptop-hacker-code-source.png",
+    "sourceSha256": "e6950848d6c053ddf69f45e385eebf54b053a959dd38559aa3ba93759ee4fbbd",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "fingerprint-evidence-scan",
+    "provider": "fal-ai / Nano Banana",
+    "source": "fingerprint-evidence-scan-source.png",
+    "sourceSha256": "7a3f35578ba49178264ce0082a120b956f6da1a3b3eeeb3ace1c70d6b23ef523",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "blueprint-heist-plan",
+    "provider": "fal-ai / Nano Banana",
+    "source": "blueprint-heist-plan-source.png",
+    "sourceSha256": "565bfe5b0a98e6b539e19d3769af046a8ae09d4cc6e2030ee2cc54f588b8b918",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "walkie-talkie-radio",
+    "provider": "fal-ai / Nano Banana",
+    "source": "walkie-talkie-radio-source.png",
+    "sourceSha256": "58cf5d8d5c5437435f24360887e7e021e5a5726e2c50a325f08f9c482fa6ced0",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "stopwatch-heist-timer",
+    "provider": "fal-ai / Nano Banana",
+    "source": "stopwatch-heist-timer-source.png",
+    "sourceSha256": "7ad987c2f44561045f68fdab0a8e028380bbdd30004d8b0237ad76c181775a60",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "wanted-star-gold",
+    "provider": "fal-ai / Nano Banana",
+    "source": "wanted-star-gold-source.png",
+    "sourceSha256": "e295e5c2b44a836835e1b6a3d3463f7028fafdc0c8b04dd07b83b9f46f54f3ae",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "stealth-eye-detection",
+    "provider": "fal-ai / Nano Banana",
+    "source": "stealth-eye-detection-source.png",
+    "sourceSha256": "e7c0927cc072ec358b5f1ca9ee18cce3a022db11e8d293c88f799e245bd52833",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "footsteps-sneak-quiet",
+    "provider": "fal-ai / Nano Banana",
+    "source": "footsteps-sneak-quiet-source.png",
+    "sourceSha256": "e361f0452ec68ddd572e3fe5fe05b04f1a1960a35c89a71bd55d0b8739a7a0a4",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "guard-flashlight-beam",
+    "provider": "fal-ai / Nano Banana",
+    "source": "guard-flashlight-beam-source.png",
+    "sourceSha256": "1e25adf66d023fc26c933ebae2cb6dd48031db2b24bdfe638eefdc80dc974917",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "spike-strip-road",
+    "provider": "fal-ai / Nano Banana",
+    "source": "spike-strip-road-source.png",
+    "sourceSha256": "729fe81e5ec226c1c9d2e67c85ff93f81893b9e7ffd340340c3fdd96e21f2c51",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "roadblock-police-barrier",
+    "provider": "fal-ai / Nano Banana",
+    "source": "roadblock-police-barrier-source.png",
+    "sourceSha256": "8391660c92026fd6e4b1e46a1e45724696c445a9c2aa32a3cc248206a714c25c",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "padlock-locked-closed",
+    "provider": "fal-ai / Nano Banana",
+    "source": "padlock-locked-closed-source.png",
+    "sourceSha256": "51a4f98859beacc73f2ef2616b19597659d872ae53e7b6e3f00a01c29dd3127d",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "padlock-unlocked-open",
+    "provider": "fal-ai / Nano Banana",
+    "source": "padlock-unlocked-open-source.png",
+    "sourceSha256": "bd4666a2478fa5a99c32258d6bce4114829e5a0473e261dad1bc46d7683d1305",
+    "crop": [
+      0.5,
+      0.25,
+      0.75,
+      0.5
+    ],
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "dollar-coin-gold",
+    "provider": "fal-ai / Nano Banana",
+    "source": "dollar-coin-gold-source.png",
+    "sourceSha256": "fb618068e1ddf2c65501045778ab97679c53e5435b529dac9a2cff2b98532724",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "jewelry-necklace-pearls",
+    "provider": "fal-ai / Nano Banana",
+    "source": "jewelry-necklace-pearls-source.png",
+    "sourceSha256": "6883a49b62f61548209517908b29837f2c36a213723bc449110d424ec7b0ad38",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "painting-art-loot",
+    "provider": "fal-ai / Nano Banana",
+    "source": "painting-art-loot-source.png",
+    "sourceSha256": "d9a1a0a713f3ea86d3fc0ae3a07e1d95f5fcf93fec1d1447305ae8ba2f471525",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  },
+  {
+    "subject": "medkit-health-kit",
+    "provider": "fal-ai / Nano Banana",
+    "source": "medkit-health-kit-source.png",
+    "sourceSha256": "dcfd1c1b4b5b71f2b58b56b34956b64bd4ec8954bcd01fbae0601fa71f7e212e",
+    "crop": null,
+    "processing": "subject isolation, palette mapping, independent 128/64 fitting and outlines"
+  }
+]
